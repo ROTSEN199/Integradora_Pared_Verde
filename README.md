@@ -27,3 +27,13 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 
 ## Diagrama inicial   //Nestor
 ![Untitled Sketch_bb](https://user-images.githubusercontent.com/95454472/172226808-e73c491d-ef6f-4e07-a26a-0efc44457029.jpg)
+
+#### Requerimientos
+|No.  |Requerimiento  |
+|---  |-------------  |
+| 1   |El monitoreo de los sensores mostara los estandares sibre el estado de las palantas por medio del sensor de temperatura ambiente              |
+| 2   |Para el prototipo de la maquetacion tedra que resiclar la misma agua para que sea auto sustentable |
+| 3   |Mediante el sensor de humedad monitoriara la humedad que contenga la tierra en la que estan las pantas con un grafico en la aplicacion.|
+| 4   |la persona podra solicitar el monitoreo mediante la aplicacon instalada a su dispositivo.|
+| 5   |El usuario podra acccionar el riego si lo cree necesario por medio de un boton manteniendolo por 30 segundos activo. |
+| 6   |El sensor de humedad al llegar un nivel critico de poca humedad en el sustrato de la tierra accionara la bomba de agua hasta que este parametro se estavilice.  |
