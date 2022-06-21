@@ -38,3 +38,5 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 | 5   |El usuario podra acccionar el riego si lo cree necesario por medio de un boton manteniendolo por 30 segundos activo. |
 | 6   |El sensor de humedad al llegar un nivel critico de poca humedad en el sustrato de la tierra accionara la bomba de agua hasta que este parametro se estavilice.  |
 ## Prototipo de la maquetacion.
+![Portotipo](https://user-images.githubusercontent.com/95454472/174725938-e7d3c37f-4162-4b8c-a555-7849abf5cd66.jpg)
+
