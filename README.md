@@ -13,7 +13,7 @@ Implementar un dispositivo que nos permita monitorear plantas dentro de un proto
 
 El dispotisivo contará con una aplicación donde mostrará el estado de humedad y temperatura, el registro de riego, permitiendo un control del mismo.
 
-## Material de uso  //Sergio
+## Material de uso  
 
 |Componente|Imagen|Descripción|Cantidad|
 |---|---|---|---|
@@ -25,10 +25,10 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 |Mini bomba de agua|![Mini bomba de agua sumergible](https://user-images.githubusercontent.com/90642664/171305127-7652ea60-741a-4e3a-87dc-d2b574467ebd.jpg)| <p>***ESPECIFICACIONES TÉCNICAS.<br><ol><li>Voltaje de funcionamiento: 2,5-6v DC.</li><li>Altura bombeo máx.: 40-110cm.</li><li>Caudal bombeo máx.: 80-120 l/h.</li><li>Diámetro salida Exterior: 7,5 mm.</li><li>Diámetro salida Interior: 5 mm.</li><li>Longitud cable: 20cm.</li><li>Tiempo continuo de trabajo de 500 horas.</li></ol></p>| 2 |.
 
 
-## Diagrama inicial   //Nestor
+## Diagrama inicial   
 ![Untitled Sketch_bb](https://user-images.githubusercontent.com/95454472/172226808-e73c491d-ef6f-4e07-a26a-0efc44457029.jpg)
 
-#### Requerimientos
+#### Requerimientos.
 |No.  |Requerimiento  |
 |---  |-------------  |
 | 1   |El monitoreo de los sensores mostara los estandares sibre el estado de las palantas por medio del sensor de temperatura ambiente              |
@@ -37,3 +37,4 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 | 4   |la persona podra solicitar el monitoreo mediante la aplicacon instalada a su dispositivo.|
 | 5   |El usuario podra acccionar el riego si lo cree necesario por medio de un boton manteniendolo por 30 segundos activo. |
 | 6   |El sensor de humedad al llegar un nivel critico de poca humedad en el sustrato de la tierra accionara la bomba de agua hasta que este parametro se estavilice.  |
+## Prototipo de la maquetacion.
