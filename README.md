@@ -36,7 +36,7 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 |3|Mediante el sensor de humedad monitoriara la humedad que contenga la tierra en la que estan las pantas con un grafico en la aplicacion.|
 |4|  |
 
-|Requerimientos no funcionales|
+|No.|Requerimientos no funcionales|
 |1|Flexibilidad se hara en caso de que gusten mover su pared verde|
 |2|Si desea accionar el riego podra hacerlo por medio de un boton.|
 |3|La bomba se activara mediante 30 segundos para el riego.|
