@@ -37,6 +37,7 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 |4|  |
 
 |No.|Requerimientos no funcionales|
+|---|-------------|
 |1|Flexibilidad se hara en caso de que gusten mover su pared verde|
 |2|Si desea accionar el riego podra hacerlo por medio de un boton.|
 |3|La bomba se activara mediante 30 segundos para el riego.|
