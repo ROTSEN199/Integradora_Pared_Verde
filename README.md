@@ -29,19 +29,19 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 ![Untitled Sketch_bb](https://user-images.githubusercontent.com/95454472/172226808-e73c491d-ef6f-4e07-a26a-0efc44457029.jpg)
 
 #### Requerimientos.
-|No.  |Requerimiento funcionales |
-|---  |-------------  |
-| 1   | Tendra una maquetación flexible |
-| 2   | El sensor de temperatura se encargara de la temperatura ambiental. |
-| 3   | Mediante el sensor de humedad monitoriara la humedad que contenga la tierra en la que estan las pantas con un grafico en la aplicacion. |
-| 4   |  |
+|No.|Requerimiento funcionales|
+|---|-------------|
+|1|Tendra una maquetación flexible|
+|2| El sensor de temperatura se encargara de la temperatura ambiental.|
+|3|Mediante el sensor de humedad monitoriara la humedad que contenga la tierra en la que estan las pantas con un grafico en la aplicacion.|
+|4|  |
 
-| Requerimientos no funcionales |
-| 1   | Flexibilidad se hara en caso de que gusten mover su pared verde |
-| 2   | Si desea accionar el riego podra hacerlo por medio de un boton. |
-| 3   | La bomba se activara mediante 30 segundos para el riego.|
-| 4   | Mediante goteo se mojaran las plantas |
-| 5   | Se reutilizara la misma agua que caiga de las plantas.  |
+|Requerimientos no funcionales|
+|1|Flexibilidad se hara en caso de que gusten mover su pared verde|
+|2|Si desea accionar el riego podra hacerlo por medio de un boton.|
+|3|La bomba se activara mediante 30 segundos para el riego.|
+|4|Mediante goteo se mojaran las plantas.|
+|5|Se reutilizara la misma agua que caiga de las plantas.|
 
 ## Prototipo de la maquetacion.
 ![Portotipo](https://user-images.githubusercontent.com/95454472/174725938-e7d3c37f-4162-4b8c-a555-7849abf5cd66.jpg)
