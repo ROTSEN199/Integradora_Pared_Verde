@@ -35,8 +35,8 @@ El dispotisivo contará con una aplicación, esta contará con:
 ![Untitled Sketch_bb](https://user-images.githubusercontent.com/95454472/172226808-e73c491d-ef6f-4e07-a26a-0efc44457029.jpg)
 
 #### Requerimientos.
-| No. |Requerimientos funcionales|
-|-----|--------------------------|
+| No.|Requerimientos funcionales|
+|----|--------------------------|
 |RF 01|Tendra una maquetación flexible|
 |RF 02|El sensor de temperatura se encargara de la temperatura ambiental.|
 |RF 03|Mediante el sensor de humedad monitoriara la humedad que contenga la tierra en la que estan las plantas con un gráfico en la aplicación.|
