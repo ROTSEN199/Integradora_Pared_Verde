@@ -1,7 +1,7 @@
 # ParedVerde
 
 # Autores
-- Sergio Abisay Cervantes Sánchez.\n
+- Sergio Abisay Cervantes Sánchez.
 - Nestor Emmanuel Briones Ramírez.
 
 ## Justificación 
