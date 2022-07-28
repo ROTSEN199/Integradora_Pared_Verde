@@ -1,5 +1,9 @@
 # ParedVerde
 
+# Autores
+Sergio Abisay Cervantes Sánchez 
+Nestor Emmanuel Briones Ramírez
+
 ## Justificación 
 
 En la vida diaria se puede encontrar que los espacios verdes dentro de los diferentes establecimientos escasean por la falta de espacio, la dificultad que genera la humedad de las areas verdes por el riego y por que en la velocidad en la que se vive diariamente resulta dificil mantener las plantas vivas y sanas.
@@ -7,11 +11,13 @@ Una de las razones por las que las plantas suelen no sobrevivir es que no record
 
 ## Objetivo
 
-Implementar un dispositivo que nos permita monitorear plantas dentro de un prototipo plano que se instale en la pared, aprovechando los espacios reducidos, el dispositivo nos permite estar calculando la humendad y la temperatura para automatizar el riego.
+Implementar un dispositivo que nos permita monitorear plantas dentro de un prototipo plano que se instale en la pared, aprovechando los espacios reducidos, el dispositivo nos permite estar calculando la humedad y la temperatura para automatizar el riego. Todo esto mediante la comunicación con la base de datos utilizada, al igual que también se usara la ESP32 para la conexión de internet.
 
 ## Descripción general
 
-El dispotisivo contará con una aplicación donde mostrará el estado de humedad y temperatura, el registro de riego, permitiendo un control del mismo.
+El dispotisivo contará con una aplicación, esta contará con:
+1. Una página de inicio de sesión y registro de usuarios para que se logee el usuario y acceda a el demás contenido.
+2. Contendra una pantalla la cual mediante tres opciones mostrará el estado de humedad y temperatura, y el registro de riego, así permitiendo un mejor control de riego.
 
 ## Material de uso  
 
@@ -32,8 +38,8 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 |No.|Requerimiento funcionales|
 |---|-------------|
 |1|Tendra una maquetación flexible|
-|2| El sensor de temperatura se encargara de la temperatura ambiental.|
-|3|Mediante el sensor de humedad monitoriara la humedad que contenga la tierra en la que estan las pantas con un grafico en la aplicacion.|
+|2|El sensor de temperatura se encargara de la temperatura ambiental.|
+|3|Mediante el sensor de humedad monitoriara la humedad que contenga la tierra en la que estan las plantas con un gráfico en la aplicación.|
 |4|  |
 
 |No.|Requerimientos no funcionales|
@@ -43,6 +49,7 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 |3|La bomba se activara mediante 30 segundos para el riego.|
 |4|Mediante goteo se mojaran las plantas.|
 |5|Se reutilizara la misma agua que caiga de las plantas.|
+|6|Se hara mediante la conexión con internet de la ESP32 antes mencionada. |
 
 ## Prototipo de la maquetacion.
 ![Portotipo](https://user-images.githubusercontent.com/95454472/174725938-e7d3c37f-4162-4b8c-a555-7849abf5cd66.jpg)
