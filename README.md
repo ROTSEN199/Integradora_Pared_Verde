@@ -1,7 +1,7 @@
 # ParedVerde
 
 # Autores
-Sergio Abisay Cervantes Sánchez 
+Sergio Abisay Cervantes Sánchez \n
 Nestor Emmanuel Briones Ramírez
 
 ## Justificación 
@@ -37,19 +37,26 @@ El dispotisivo contará con una aplicación, esta contará con:
 #### Requerimientos.
 |No.|Requerimiento funcionales|
 |---|-------------|
-|1|Tendra una maquetación flexible|
-|2|El sensor de temperatura se encargara de la temperatura ambiental.|
-|3|Mediante el sensor de humedad monitoriara la humedad que contenga la tierra en la que estan las plantas con un gráfico en la aplicación.|
-|4|  |
+|RF 01|Tendra una maquetación flexible|
+|RF 02|El sensor de temperatura se encargara de la temperatura ambiental.|
+|RF 03|Mediante el sensor de humedad monitoriara la humedad que contenga la tierra en la que estan las plantas con un gráfico en la aplicación.|
+|RF 04|Nuestra aplicación permitirá el registro de usuarios. |
+|RF 05|La aplicación debe permitir la actualización de los datos de los Usuarios.  |
+|RF 06|La aplicación debera capturar los datos de los sensores. |
+|RF 07|La aplicación debe tener un diseño de interfaz amigable. |
+
 
 |No.|Requerimientos no funcionales|
 |---|-------------|
-|1|Flexibilidad se hara en caso de que gusten mover su pared verde|
-|2|Si desea accionar el riego podra hacerlo por medio de un boton.|
-|3|La bomba se activara mediante 30 segundos para el riego.|
-|4|Mediante goteo se mojaran las plantas.|
-|5|Se reutilizara la misma agua que caiga de las plantas.|
-|6|Se hara mediante la conexión con internet de la ESP32 antes mencionada. |
+|RNF 01|Flexibilidad se hara en caso de que gusten mover su pared verde|
+|RNF 02|Si desea accionar el riego podra hacerlo por medio de un boton.|
+|RNF 03|La bomba se activara mediante 30 segundos para el riego.|
+|RNF 04|Mediante goteo se mojaran las plantas.|
+|RNF 05|Se reutilizara la misma agua que caiga de las plantas.|
+|RNF 06|Se hara mediante la conexión con internet de la ESP32 antes mencionada. |
+|RNF 07|La aplicación debera visualizarse y funcionar correctamente en cualquier dispositivo. |
+|RNF 08|La aplicación debe ser flexible para que cualquier usuario pueda usarla. |
+|RNF 09|Disponer de la infraestructura requerida para la implementación de la aplicación. |
 
 ## Prototipo de la maquetacion.
 ![Portotipo](https://user-images.githubusercontent.com/95454472/174725938-e7d3c37f-4162-4b8c-a555-7849abf5cd66.jpg)
