@@ -16,7 +16,7 @@ Implementar un dispositivo que nos permita monitorear plantas dentro de un proto
 
 ## Descripción general
 
-El dispotisivo contará con una aplicación, esta contará con:
+El dispositivo contará con una aplicación, esta contará con:
 1. Una página de inicio de sesión y registro de usuarios para que se logee el usuario y acceda a el demás contenido.
 2. Contendra una pantalla la cual mediante tres opciones mostrará el estado de humedad y temperatura, y el registro de riego, así permitiendo un mejor control de riego.
 
@@ -58,6 +58,14 @@ El dispotisivo contará con una aplicación, esta contará con:
 |RNF 07|La aplicación debera visualizarse y funcionar correctamente en cualquier dispositivo. |
 |RNF 08|La aplicación debe ser flexible para que cualquier usuario pueda usarla. |
 |RNF 09|Disponer de la infraestructura requerida para la implementación de la aplicación. |
+
+## Planificación de Proyecto
+
+https://trello.com/b/RLmiaqJo/primer-sprint
+
+## Entidad_Relación
+
+![image](https://user-images.githubusercontent.com/90642664/182158911-f4e9137d-9583-4117-a30f-fc0e70cd3d64.png)
 
 ## Prototipo de la maquetacion.
 ![Portotipo](https://user-images.githubusercontent.com/95454472/174725938-e7d3c37f-4162-4b8c-a555-7849abf5cd66.jpg)
