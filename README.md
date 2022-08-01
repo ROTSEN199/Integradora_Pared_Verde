@@ -1,6 +1,4 @@
 # ParedVerde
-###https://repositorio.unicordoba.edu.co/bitstream/handle/ucordoba/2706/ramirezdiazeliecerjesus-vergarasierrajesusdavid.pdf?sequence=1&isAllowed=y
-página 63
 # Autores
 - Sergio Abisay Cervantes Sánchez.
 - Nestor Emmanuel Briones Ramírez.
