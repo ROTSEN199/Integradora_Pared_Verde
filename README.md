@@ -59,6 +59,11 @@ El dispositivo contará con una aplicación, esta contará con:
 |RNF 08|La aplicación debe ser flexible para que cualquier usuario pueda usarla. |
 |RNF 09|Disponer de la infraestructura requerida para la implementación de la aplicación. |
 
+
+## Diagrama de Clase de Uso
+
+![image](https://user-images.githubusercontent.com/90642664/182166990-70f005bd-7b75-4024-82a7-d5059f7cbccb.png)
+
 ## Planificación de Proyecto
 
 https://trello.com/b/RLmiaqJo/primer-sprint
