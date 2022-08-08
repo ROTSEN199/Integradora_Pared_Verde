@@ -36,18 +36,18 @@ El dispositivo contará con una aplicación, esta contará con:
 #### Requerimientos.
 | No.|Requerimientos funcionales|
 |--|--------------------------|
-|RF01|Tendra una maquetación flexible|
-|RF02|El sensor de temperatura se encargara de la temperatura ambiental.|
-|RF03|Mediante el sensor de humedad monitoriara la humedad que contenga la tierra en la que estan las plantas con un gráfico en la aplicación.|
-|RF04|Nuestra aplicación permitirá el registro de usuarios. |
-|RF05|La aplicación debe permitir la actualización de los datos de los Usuarios.  |
+|RF01|Tendra una maquetación accesible, con el fin de que si gusta mover su pared lo pueda hacer sin tanto problema|
+|RF02|El sensor de temperatura se encargara de la temperatura ambiental. Para que así cuando este detecte muy caliente el clima mande datos con sugerencias a la ESP32|
+|RF03|Mediante el sensor de humedad monitoriara la humedad que contenga la tierra en la que estan las plantas con un gráfico en la aplicación. El cual estara conectado mediante node-red|
+|RF04|Nuestra aplicación permitirá el registro de usuarios. Conectada a la base de datos mariadb|
+|RF05|La aplicación debe permitir la actualización de los datos de los Usuarios. Así como el nombre, email, y cntraseña. |
 |RF06|La aplicación debera capturar los datos de los sensores. |
 |RF07|La aplicación debe tener un diseño de interfaz amigable. |
 
 
 |  No. |Requerimientos no funcionales|
 |------|-----------------------------|
-|RNF 01|Flexibilidad se hara en caso de que gusten mover su pared verde|
+|RNF 01||
 |RNF 02|Si desea accionar el riego podra hacerlo por medio de un boton.|
 |RNF 03|La bomba se activara mediante 30 segundos para el riego.|
 |RNF 04|Mediante goteo se mojaran las plantas.|
