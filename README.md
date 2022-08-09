@@ -39,18 +39,21 @@ El dispositivo contará con una aplicación, esta contará con:
 |RF01|Tendra una maquetación accesible, con el fin de que si gusta mover su pared lo pueda hacer sin tanto problema|
 |RF02|El sensor de temperatura se encargara de la temperatura ambiental. Para que así cuando este detecte muy caliente el clima mande datos con sugerencias a la ESP32|
 |RF03|Mediante el sensor de humedad monitoriara la humedad que contenga la tierra en la que estan las plantas con un gráfico en la aplicación. El cual estara conectado mediante node-red|
+|RNF 03|Una vez el sensor de humedad detecte muy seca la tierra, la bomba se activara mediante 30 segundos para el riego.|
+|RNF 04|Mediante goteo se mojaran las plantas hasta que el nivel de humedad detecte buen estado de agua en la tierra.|
 |RF04|Nuestra aplicación permitirá el registro de usuarios. Conectada a la base de datos mariadb|
 |RF05|La aplicación debe permitir la actualización de los datos de los Usuarios. Así como el nombre, email, y cntraseña. |
 |RF06|La aplicación debera capturar los datos de los sensores. |
 |RF07|La aplicación debe tener un diseño de interfaz amigable. |
+|RF08|En caso de querer accionar el riego podra hacerlo por medio de un boton, el cual se encontrara en la aplicación.|
 
 
 |  No. |Requerimientos no funcionales|
 |------|-----------------------------|
-|RNF 01||
-|RNF 02|Si desea accionar el riego podra hacerlo por medio de un boton.|
-|RNF 03|La bomba se activara mediante 30 segundos para el riego.|
-|RNF 04|Mediante goteo se mojaran las plantas.|
+|RNF 01| El usuario debera registrarse con su Nombre, Correo, Contraseña. Al igual que podra loguearse utilizando su Correo y Contraseña.|
+|RNF 02||
+|RNF 03||
+|RNF 04||
 |RNF 05|Se reutilizara la misma agua que caiga de las plantas.|
 |RNF 06|Se hara mediante la conexión con internet de la ESP32 antes mencionada. |
 |RNF 07|La aplicación debera visualizarse y funcionar correctamente en cualquier dispositivo. |
