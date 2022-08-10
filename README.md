@@ -15,9 +15,9 @@ Implementar un dispositivo que nos permita monitorear plantas dentro de un proto
 
 ## Descripción general
 
-● Identificar las variables ambientales a tener en cuenta para el riego adecuado de cultivos y la instrumentación requerida para el sistema de control de riego y monitoreo de variables ambientales.
-● Implementar un prototipo del sistema en las instalaciones de la Universidad.
-● Diseñar el sistema de control, teniendo en cuenta los requerimientos del terreno y las necesidades de los usuarios y el sistema de monitoreo de variables desde una aplicación móvil.
+● Identificar las variables ambientales a tener en cuenta para el riego adecuado de cultivos y la instrumentación requerida para el sistema de control de riego y monitoreo de variables ambientales. \n
+● Implementar un prototipo del sistema en las instalaciones de la Universidad.\n
+● \nDiseñar el sistema de control, teniendo en cuenta los requerimientos del terreno y las necesidades de los usuarios y el sistema de monitoreo de variables desde una aplicación móvil.
 El dispositivo contará con una aplicación, esta contará con:
 1. Una página de inicio de sesión y registro de usuarios para que se logee el usuario y acceda a el demás contenido.
 2. Contendra una pantalla la cual mediante tres opciones mostrará el estado de humedad y temperatura, y el registro de riego, así permitiendo un mejor control de riego.
