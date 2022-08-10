@@ -15,9 +15,9 @@ Implementar un dispositivo que nos permita monitorear plantas dentro de un proto
 
 ## Descripción general
 
-● Identificar las variables ambientales a tener en cuenta para el riego adecuado de cultivos y la instrumentación requerida para el sistema de control de riego y monitoreo de variables ambientales. \n
-● Implementar un prototipo del sistema en las instalaciones de la Universidad.\n
-● \nDiseñar el sistema de control, teniendo en cuenta los requerimientos del terreno y las necesidades de los usuarios y el sistema de monitoreo de variables desde una aplicación móvil.
+- Identificar las variables ambientales a tener en cuenta para el riego adecuado de cultivos y la instrumentación requerida para el sistema de control de riego y monitoreo de variables ambientales. 
+- Implementar un prototipo del sistema en las instalaciones de la Universidad.
+- Diseñar el sistema de control, teniendo en cuenta los requerimientos del terreno y las necesidades de los usuarios y el sistema de monitoreo de variables desde una aplicación móvil.
 El dispositivo contará con una aplicación, esta contará con:
 1. Una página de inicio de sesión y registro de usuarios para que se logee el usuario y acceda a el demás contenido.
 2. Contendra una pantalla la cual mediante tres opciones mostrará el estado de humedad y temperatura, y el registro de riego, así permitiendo un mejor control de riego.
@@ -43,13 +43,13 @@ El dispositivo contará con una aplicación, esta contará con:
 |RF01|Tendra una maquetación accesible, con el fin de que si gusta mover su pared lo pueda hacer sin tanto problema|
 |RF02|El sensor de temperatura se encargara de la temperatura ambiental. Para que así cuando este detecte muy caliente el clima mande datos con sugerencias a la ESP32|
 |RF03|Mediante el sensor de humedad monitoriara la humedad que contenga la tierra en la que estan las plantas con un gráfico en la aplicación. El cual estara conectado mediante node-red|
-|RNF 03|Una vez el sensor de humedad detecte muy seca la tierra, la bomba se activara mediante 30 segundos para el riego.|
-|RNF 04|Mediante goteo se mojaran las plantas hasta que el nivel de humedad detecte buen estado de agua en la tierra.|
-|RF04|Nuestra aplicación permitirá el registro de usuarios. Conectada a la base de datos mariadb|
-|RF05|La aplicación debe permitir la actualización de los datos de los Usuarios. Así como el nombre, email, y cntraseña. |
-|RF06|La aplicación debera capturar los datos de los sensores. |
-|RF07|La aplicación debe tener un diseño de interfaz amigable. |
-|RF08|En caso de querer accionar el riego podra hacerlo por medio de un boton, el cual se encontrara en la aplicación.|
+|RNF 04|Una vez el sensor de humedad detecte muy seca la tierra, la bomba se activara mediante 30 segundos para el riego.|
+|RNF 05|Mediante goteo se mojaran las plantas hasta que el nivel de humedad detecte buen estado de agua en la tierra.|
+|RF06|Nuestra aplicación permitirá el registro de usuarios. Conectada a la base de datos mariadb|
+|RF07|La aplicación debe permitir la actualización de los datos de los Usuarios. Así como el nombre, email, y cntraseña. |
+|RF08|La aplicación debera capturar los datos de los sensores. |
+|RF09|La aplicación debe tener un diseño de interfaz amigable. |
+|RF10|En caso de querer accionar el riego podra hacerlo por medio de un boton, el cual se encontrara en la aplicación.|
 
 
 |  No. |Requerimientos no funcionales|
