@@ -10,10 +10,14 @@ Una de las razones por las que las plantas suelen no sobrevivir es que no record
 
 ## Objetivo
 
+El riego proporciona a la planta el agua necesaria para su crecimiento y desarrollo. Dada la escasez de agua, es conveniente para la planta pero también para la protección del medio ambiente, que el riego se aplique con la mayor eficiencia. Una de las alternativas para lograr este objetivo es la utilización de sistemas de riego con programación de autocontrol: se trata de sistemas que establecen la ejecución automática de riegos mediante la valoración continua de uno o varios parámetros de control.
 Implementar un dispositivo que nos permita monitorear plantas dentro de un prototipo plano que se instale en la pared, aprovechando los espacios reducidos, el dispositivo nos permite estar calculando la humedad y la temperatura para automatizar el riego. Todo esto mediante la comunicación con la base de datos utilizada, al igual que también se usara la ESP32 para la conexión de internet.
 
 ## Descripción general
 
+● Identificar las variables ambientales a tener en cuenta para el riego adecuado de cultivos y la instrumentación requerida para el sistema de control de riego y monitoreo de variables ambientales.
+● Implementar un prototipo del sistema en las instalaciones de la Universidad.
+● Diseñar el sistema de control, teniendo en cuenta los requerimientos del terreno y las necesidades de los usuarios y el sistema de monitoreo de variables desde una aplicación móvil.
 El dispositivo contará con una aplicación, esta contará con:
 1. Una página de inicio de sesión y registro de usuarios para que se logee el usuario y acceda a el demás contenido.
 2. Contendra una pantalla la cual mediante tres opciones mostrará el estado de humedad y temperatura, y el registro de riego, así permitiendo un mejor control de riego.
@@ -75,3 +79,8 @@ https://trello.com/b/RLmiaqJo/primer-sprint
 ## Prototipo de la maquetacion.
 ![Portotipo](https://user-images.githubusercontent.com/95454472/174725938-e7d3c37f-4162-4b8c-a555-7849abf5cd66.jpg)
 
+## Conclusiones 
+
+Se logró encender/apagar algún dispositivo por medio de teléfonos celulares, que a su vez posibilita la automatización del riego, en tiempo real, a partir de variables de suelo, clima y cultivo, con el fin de de alcanzar una mayor eficiencia en la aplicación del limitado recurso agua.
+
+La utilización de tecnologías de comunicación como teléfonos celulares, facilita un seguimiento e incluso el control del sistema en tiempo real, al obtener información del estado del sistema y enviar comandos u órdenes de ejecución, lo que se traduce en beneficios inmediatos en cuanto a la aplicación del riego.
