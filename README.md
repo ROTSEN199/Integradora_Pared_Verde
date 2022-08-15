@@ -47,27 +47,26 @@ El dispositivo contará con una aplicación, esta contará con:
 |--|--------------------------|
 |RF01|Tendra una maquetación accesible, con el fin de que si gusta mover su pared lo pueda hacer sin tanto problema|
 |RF02|El sensor de temperatura se encargara de la temperatura ambiental. Para que así cuando este detecte muy caliente el clima mande datos con sugerencias a la ESP32|
-|RF03|Mediante el sensor de humedad monitoriara la humedad que contenga la tierra en la que estan las plantas con un gráfico en la aplicación. El cual estara conectado mediante node-red|
-|RNF 04|Una vez el sensor de humedad detecte muy seca la tierra, la bomba se activara mediante 30 segundos para el riego.|
+|RF03|Mediante el sensor de humedad monitoriara la humedad que contenga la tierra en la que estan las plantas con un gráfico en la aplicación. El cual estara conectado mediante node-red V|
+|RNF 04| |
 |RNF 05|Mediante goteo se mojaran las plantas hasta que el nivel de humedad detecte buen estado de agua en la tierra.|
 |RF06|Nuestra aplicación permitirá el registro de usuarios. Conectada a la base de datos mariadb|
-|RF07|La aplicación debe permitir la actualización de los datos de los Usuarios. Así como el nombre, email, y cntraseña. |
-|RF08|La aplicación debera capturar los datos de los sensores. |
+|RF07|La aplicación debe permitir la actualización de los datos de los Usuarios. Así como el nombre, email, y contraseña. |
+|RF08|El usuario debera registrarse con su Nombre, Correo, Contraseña. Al igual que podra loguearse utilizando su correo y contraseña.| |
 |RF09|La aplicación debe tener un diseño de interfaz amigable. |
-|RF10|En caso de querer accionar el riego podra hacerlo por medio de un boton, el cual se encontrara en la aplicación.|
 
 
 |  No. |Requerimientos no funcionales|
 |------|-----------------------------|
-|RNF 01| El usuario debera registrarse con su Nombre, Correo, Contraseña. Al igual que podra loguearse utilizando su Correo y Contraseña.|
+|RNF 01| Una vez el sensor de humedad detecte muy seca la tierra, la bomba se activara mediante 30 segundos para el riego.|
 |RNF 02| Para la comunicación de los datos usaremos mosquitto v2.0.14|
 |RNF 03| Para las ordenes de las acciones de la bomba y el ventilador se haran mediante node-red, al igual que la comunicación con mosquitto. La versión usada en node-red es la v14.19.3|
-|RNF 04||
-|RNF 05|Se reutilizara la misma agua que caiga de las plantas.|
-|RNF 06|Se hara mediante la conexión con internet de la ESP32 antes mencionada. |
-|RNF 07|La aplicación debera visualizarse y funcionar correctamente en cualquier dispositivo. |
-|RNF 08|La aplicación debe ser flexible para que cualquier usuario pueda usarla. |
-|RNF 09|Disponer de la infraestructura requerida para la implementación de la aplicación. |
+|RNF 04| Usaremos la ESP32-WROOM-32|
+|RNF 05|Las macetas en la parte de abajo tendran tubos de pvc para que reutilize la misma agua que caiga de las plantas.|
+|RNF 06| La aplicación sera creada mediante app inventor.|
+|RNF 07|La aplicación debera visualizarse y funcionar correctamente en tablets y celulares. |
+|RNF 08|La aplicación se hara mediante un webview con el fin de que cualquier usuario le sea más fácil visualizar sus datos. |
+
 
 
 ## Diagrama de Clase de Uso
