@@ -59,14 +59,14 @@ El dispositivo contará con una aplicación, esta contará con:
 |  No. |Requerimientos no funcionales|
 |------|-----------------------------|
 |RNF 01| Una vez el sensor de humedad detecte muy seca la tierra, la bomba se activara mediante 30 segundos para el riego.|
-|RNF 02| Para la comunicación de los datos usaremos mosquitto v2.0.14|
+|RNF 02| Para la comunicación de los datos usaremos mosquitto v2.0.14 conectado con un broker donde estara conectado los dispositivos que enviaran la señal|
 |RNF 03| Para las ordenes de las acciones de la bomba y el ventilador se haran mediante node-red, al igual que la comunicación con mosquitto. La versión usada en node-red es la v14.19.3|
 |RNF 04| Usaremos la ESP32-WROOM-32|
 |RNF 05|Las macetas en la parte de abajo tendran tubos de pvc para que reutilize la misma agua que caiga de las plantas.|
 |RNF 06| La aplicación sera creada mediante app inventor.|
 |RNF 07|La aplicación debera visualizarse y funcionar correctamente en tablets y celulares. |
 |RNF 08|La aplicación se hara mediante un webview con el fin de que cualquier usuario le sea más fácil visualizar sus datos. |
-
+|RNF 09|El sensor de temperatura se encargara de la temperatura ambiental. Para que así cuando este detecte muy caliente el clima active un mini ventilador para mantener frescas las plantas|
 
 
 ## Diagrama de Clase de Uso
