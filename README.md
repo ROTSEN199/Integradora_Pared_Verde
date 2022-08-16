@@ -70,7 +70,9 @@ El dispositivo contará con una aplicación, esta contará con:
 
 
 ## Diagrama de Clase de Uso
-![image](https://user-images.githubusercontent.com/90642664/183774393-f82601f2-6b96-4f48-b268-103023f23e6f.png)
+![image](https://user-images.githubusercontent.com/90642664/184913237-0694d462-fe4e-4937-b177-8d730e0d7767.png)
+
+<img width="381" alt="sss" src="https://user-images.githubusercontent.com/90642664/184916322-6fdd41ab-351b-4c70-a9ac-7cf861be7897.png">
 
 ## Planificación de Proyecto
 
