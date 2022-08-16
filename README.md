@@ -70,9 +70,13 @@ El dispositivo contará con una aplicación, esta contará con:
 
 
 ## Diagrama de Clase de Uso
-![image](https://user-images.githubusercontent.com/90642664/184913237-0694d462-fe4e-4937-b177-8d730e0d7767.png)
+![image](https://user-images.githubusercontent.com/90642664/184923970-9f426d70-8692-4aa6-9502-ac21a753b430.png)
 
-<img width="381" alt="sss" src="https://user-images.githubusercontent.com/90642664/184916322-6fdd41ab-351b-4c70-a9ac-7cf861be7897.png">
+![image](https://user-images.githubusercontent.com/90642664/184926687-b54212ef-bc34-4277-9c7b-7f2b73f1dc9a.png)
+
+![image](https://user-images.githubusercontent.com/90642664/184923162-7dc6d79e-9080-45f5-8e5d-756ef08159b4.png)
+
+![image](https://user-images.githubusercontent.com/90642664/184923553-814cd74c-bab1-495b-8af2-9ccd83c49dbb.png)
 
 ## Planificación de Proyecto
 
@@ -87,6 +91,7 @@ https://trello.com/b/RLmiaqJo/primer-sprint
 
 ## Conclusiones 
 
-Se logró encender/apagar algún dispositivo por medio de teléfonos celulares, que a su vez posibilita la automatización del riego, en tiempo real, a partir de variables de suelo, clima y cultivo, con el fin de de alcanzar una mayor eficiencia en la aplicación del limitado recurso agua.
+Las investigaciones revisadas a lo largo de este proyecto, evidencian una de las grandes problemáticas que se presenta a nivel Nacional y mundial. Como lo es el mal uso de la funtes hídricas y el desgate de mano de obra en pequeños productores agricultores, que no cuentan con un apoyo tegonologico para mantener la mano de obra y ahorrar agua. Se logró encender/apagar algún dispositivo por medio de teléfonos celulares, que a su vez posibilita la automatización del riego, en tiempo real, a partir de variables de suelo, clima y cultivo, con el fin de de alcanzar una mayor eficiencia en la aplicación del limitado recurso agua.
 
-La utilización de tecnologías de comunicación como teléfonos celulares, facilita un seguimiento e incluso el control del sistema en tiempo real, al obtener información del estado del sistema y enviar comandos u órdenes de ejecución, lo que se traduce en beneficios inmediatos en cuanto a la aplicación del riego.
+Se logró con éxito el monitoreo de la humedad de suelo, donde se puede visualizar en tiempo real los datos de la cantidad de humedad de suelo, así como será capaz de almacenar un registro de datos, además de esto también la temperatura en la que se encuentra el cultivo, esto también en tiempo real. Por último, se debe tener en cuenta que las tecnologías por si solas no resuelven todos los problemas, pero si se logra una implementación sistemática y coordinada de estas, pueden
+ayudar a enfocarse por el camino correcto. Lo importante no es contar con la tecnología, sino aplicarla y utilizarla de la mejor manera, enfocándola a un problema real y concreto como por ejemplo, nuestra población Campesina que es la mas afectada
