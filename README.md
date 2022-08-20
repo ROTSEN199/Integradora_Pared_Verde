@@ -15,11 +15,8 @@ El riego proporciona a la planta el agua necesaria para su crecimiento y desarro
 Implementar un dispositivo que nos permita monitorear plantas dentro de un prototipo plano que se instale en la pared, aprovechando los espacios reducidos, el dispositivo nos permite estar calculando la humedad y la temperatura para automatizar el riego. Todo esto mediante la comunicación con la base de datos utilizada, al igual que también se usara la ESP32 para la conexión de internet.
 
 ## Descripción general
-El proyecto monitoriza el cuidado de plantas en un entorno en el cual las plantas tendran tratos y cuidados en los que por medio de riego y la temperatura habiiente en la que se encuentran se tomaran datos en la aplicacion manejada por el telefono movil. 
-
-- Identificar las variables ambientales a tener en cuenta para el riego adecuado de cultivos y la instrumentación requerida para el sistema de control de riego y monitoreo de variables ambientales. 
-- Implementar un prototipo del sistema en las instalaciones de la Universidad.
-- Diseñar el sistema de control, teniendo en cuenta los requerimientos del terreno y las necesidades de los usuarios y el sistema de monitoreo de variables desde una aplicación móvil.
+Nuestro proyecto de Pared Verde esta construido por diferentes sensores los cuales son el sensor DHT11 el cual se encaragara de medir la temperatura ambiente para así mandar recomendaciones a la persona sobre su riego, tambien cuenta con un sensor de humedad de suelo el cual se encarga de medir la humedad de la tierra y mandar los datos para la ESP32 y mediante eso activar ua bomba de agua.
+La bomba de agua se encuentra conectada a un reley el cual permitira el paso de la corriente cuando se le indique, por último tenemos una pantalla lcd la cual solamente se encargara de mostrar los datos.
 El dispositivo contará con una aplicación, esta contará con:
 1. Una página de inicio de sesión y registro de usuarios para que se logee el usuario y acceda a el demás contenido.
 2. Contendra una pantalla la cual mediante tres opciones mostrará el estado de humedad y temperatura, y el registro de riego, así permitiendo un mejor control de riego.
@@ -64,7 +61,7 @@ El dispositivo contará con una aplicación, esta contará con:
 
 
 ## Diagrama de Clase de Uso
-![image](https://user-images.githubusercontent.com/90642664/184923970-9f426d70-8692-4aa6-9502-ac21a753b430.png)
+<img width="576" alt="diagrama" src="https://user-images.githubusercontent.com/95454472/185724247-b2fedc8a-6ebc-439d-9d18-1a260e0b3421.png">
 
 ## Planificación de Proyecto
 
