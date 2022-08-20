@@ -45,7 +45,7 @@ El dispositivo contará con una aplicación, esta contará con:
 |RF01|Tendra una maquetación accesible, con el fin de que si gusta mover su pared lo pueda hacer sin tanto problema|
 |RF02|La aplicación debe permitir acceder a la plataforma utilizando Usuario y contraseña.|
 |RF03|La aplicación debe permitir la actualización de los datos de los Usuarios. Así como el nombre de usuario y contraseña. |
-|RF04|
+|RF04|La apliación debera permitir acceder a cualquier usuario.|
 |RF05|La aplicación debe mostrar los datos del sensor de húmedad y sensor de temperatura.|
 |RF06|Una vez el sensor de humedad detecte muy seca la tierra, la bomba se activara mediante 30 segundos para el riego.|
 
@@ -72,7 +72,8 @@ https://trello.com/b/RLmiaqJo/primer-sprint
 
 ## Entidad_Relación
 
-![image](https://user-images.githubusercontent.com/90642664/182158911-f4e9137d-9583-4117-a30f-fc0e70cd3d64.png)
+![image](https://user-images.githubusercontent.com/90642664/185724090-29945a5f-7aa7-44f6-8909-fc284727458d.png)
+
 
 ## Prototipo de la maquetacion.
 ![Portotipo](https://user-images.githubusercontent.com/95454472/174725938-e7d3c37f-4162-4b8c-a555-7849abf5cd66.jpg)
