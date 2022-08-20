@@ -43,37 +43,28 @@ El dispositivo contará con una aplicación, esta contará con:
 | No.|Requerimientos funcionales|
 |--|--------------------------|
 |RF01|Tendra una maquetación accesible, con el fin de que si gusta mover su pared lo pueda hacer sin tanto problema|
-|RF02|Para empezar a usar la app el usuario debera registrarse con su Nombre de usuario y Contraseña.|
-|RF03|Una vez registrado, el usuario podra iniciar sesión para ver os datos de los sensores.|
-|RF04|La aplicación debe permitir acceder a la plataforma utilizando Usuario y contraseña.|
-|RF05|La aplicación debe permitir la actualización de los datos de los Usuarios. Así como el nombre de usuario y contraseña. |
-|RF06|Nuestra aplicación guardara los datos en la base de datos de firebase.|
-|RF07|La aplicación debe mostrar los datos del sensor de húmedad y sensor de temperatura.|
-|RF08|La aplicación debe estar activa 24/7 todo el tiempo, además de contar con rapidez en sus procesos.|
+|RF02|La aplicación debe permitir acceder a la plataforma utilizando Usuario y contraseña.|
+|RF03|La aplicación debe permitir la actualización de los datos de los Usuarios. Así como el nombre de usuario y contraseña. |
+|RF04|
+|RF05|La aplicación debe mostrar los datos del sensor de húmedad y sensor de temperatura.|
+|RF06|Una vez el sensor de humedad detecte muy seca la tierra, la bomba se activara mediante 30 segundos para el riego.|
 
 |  No. |Requerimientos no funcionales|
 |------|-----------------------------|
-|RNF 01| Una vez el sensor de humedad detecte muy seca la tierra, la bomba se activara mediante 30 segundos para el riego.|
-|RNF 02| Para la comunicación de los datos usaremos mosquitto v2.0.14 conectado con un broker donde estara conectado los dispositivos que enviaran la señal|
-|RNF 03| Para las ordenes de las acciones de la bomba y el ventilador se haran mediante node-red, al igual que la comunicación con mosquitto. La versión usada en node-red es la v14.19.3|
-|RNF 04| Usaremos la ESP32-WROOM-32 para subir el código de arduino |
-|RNF 05|Las macetas en la parte de abajo tendran tubos de pvc para que reutilize la misma agua que caiga de las plantas.|
-|RNF 06| La aplicación sera creada mediante app inventor.|
-|RNF 07|La aplicación debera visualizarse y funcionar correctamente en tablets y celulares. |
-|RNF 08|La aplicación se hara mediante un webview con el fin de que cualquier usuario le sea más fácil visualizar sus datos. |
-|RNF 09|El sensor de temperatura se encargara de la temperatura ambiental. Para que así cuando este detecte muy caliente el clima active un mini ventilador para mantener frescas las plantas|
-|RNF 10|El sensor de temperatura se encargara de la temperatura ambiental. Para que así cuando este detecte muy caliente el clima mande datos con sugerencias a la ESP32|
-|RNF 11|Mediante el sensor de humedad monitoriara la humedad que contenga la tierra en la que estan las plantas con un gráfico en la aplicación. El cual estara conectado mediante node-red V|
+|RNF01|La aplicación debe estar activa 24/7 todo el tiempo, además de contar con rapidez en sus procesos|
+|RNF02| Para la comunicación de los datos usaremos mosquitto v2.0.14 donde estara conectado los dispositivos que enviaran la señal|
+|RNF03| Para las ordenes de las acciones de la bomba y el ventilador se haran mediante node-red, al igual que la comunicación con mosquitto. La versión usada en node-red es la v14.19.3|
+|RNF04| Usaremos la ESP32-WROOM-32 para subir el código de arduino |
+|RNF05|Las macetas en la parte de abajo tendran tubos de pvc para que reutilize la misma agua que caiga de las plantas.|
+|RNF06| La aplicación sera creada mediante app inventor.|
+|RNF07|La aplicación debera visualizarse y funcionar correctamente en tablets y celulares. |
+|RNF08|La aplicación se hara mediante un webview con el fin de que cualquier usuario le sea más fácil visualizar sus datos. |
+|RNF09|Mediante el sensor de humedad monitoriara la humedad que contenga la tierra en la que estan las plantas con un gráfico en la aplicación. El cual estara conectado mediante node-red V|
+|RNF10|Nuestra aplicación guardara los datos en la base de datos de firebase.|
 
 
 ## Diagrama de Clase de Uso
 ![image](https://user-images.githubusercontent.com/90642664/184923970-9f426d70-8692-4aa6-9502-ac21a753b430.png)
-
-![image](https://user-images.githubusercontent.com/90642664/184926687-b54212ef-bc34-4277-9c7b-7f2b73f1dc9a.png)
-
-![image](https://user-images.githubusercontent.com/90642664/184923162-7dc6d79e-9080-45f5-8e5d-756ef08159b4.png)
-
-![image](https://user-images.githubusercontent.com/90642664/184923553-814cd74c-bab1-495b-8af2-9ccd83c49dbb.png)
 
 ## Planificación de Proyecto
 
