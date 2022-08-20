@@ -15,6 +15,7 @@ El riego proporciona a la planta el agua necesaria para su crecimiento y desarro
 Implementar un dispositivo que nos permita monitorear plantas dentro de un prototipo plano que se instale en la pared, aprovechando los espacios reducidos, el dispositivo nos permite estar calculando la humedad y la temperatura para automatizar el riego. Todo esto mediante la comunicación con la base de datos utilizada, al igual que también se usara la ESP32 para la conexión de internet.
 
 ## Descripción general
+El proyecto monitoriza el cuidado de plantas en un entorno en el cual las plantas tendran tratos y cuidados en los que por medio de riego y la temperatura habiiente en la que se encuentran se tomaran datos en la aplicacion manejada por el telefono movil. 
 
 - Identificar las variables ambientales a tener en cuenta para el riego adecuado de cultivos y la instrumentación requerida para el sistema de control de riego y monitoreo de variables ambientales. 
 - Implementar un prototipo del sistema en las instalaciones de la Universidad.
