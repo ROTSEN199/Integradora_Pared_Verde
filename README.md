@@ -82,4 +82,4 @@ Las investigaciones revisadas a lo largo de este proyecto, evidencian una de las
 Se logró con éxito el monitoreo de la humedad de suelo, donde se puede visualizar en tiempo real los datos de la cantidad de humedad de suelo, así como será capaz de almacenar un registro de datos, además de esto también la temperatura en la que se encuentra el cultivo, esto también en tiempo real. Por último, se debe tener en cuenta que las tecnologías por si solas no resuelven todos los problemas, pero si se logra una implementación sistemática y coordinada de estas, pueden
 ayudar a enfocarse por el camino correcto. Lo importante no es contar con la tecnología, sino aplicarla y utilizarla de la mejor manera, enfocándola a un problema real y concreto como por ejemplo, nuestra población Campesina que es la mas afectada
 ## Video de muestra prototipo final 
-https://github.com/ROTSEN199/APLIWEBu3.git
+https://www.youtube.com/watch?v=gBpmn0qjuhU 
