@@ -75,6 +75,37 @@ https://trello.com/b/RLmiaqJo/primer-sprint
 ## Prototipo de la maquetacion.
 ![Portotipo](https://user-images.githubusercontent.com/95454472/174725938-e7d3c37f-4162-4b8c-a555-7849abf5cd66.jpg)
 
+## Resultados
+
+![Nodered1](https://user-images.githubusercontent.com/99632467/185732700-4f41fda5-c5e5-40cd-9403-dccffd88de3f.jpeg)
+
+Nodos de comunicación con mqtt y funciones para insertar los datos en la base de datos del proyecto, función para la bomba y gráficos.
+
+![Nodered3](https://user-images.githubusercontent.com/99632467/185732794-9cb16a76-88d2-4861-b030-0b8669aa09dd.jpeg)
+
+Pantalla de los nodos de Node red con la consola que muestra el registro de los datos dentro de la base de datos.
+
+![Nodered4](https://user-images.githubusercontent.com/99632467/185732811-b13cc056-3b18-4a5d-8eee-12521cc6fd60.jpeg)
+
+Gráficos mostrando los niveles de temperatura y humedad del ambiente y humedad del suelo.
+
+![Log in](https://user-images.githubusercontent.com/99632467/185732822-61937c23-b89b-4397-bfca-7b912eb7e326.jpeg)
+
+Pantalla del inicio de sesion de la aplicacion.
+
+![Register](https://user-images.githubusercontent.com/99632467/185732873-22f484fa-ad08-4728-8f41-a8e37bbb4f7a.jpeg)
+
+Pantalla de registro de usuario de la aplicacion.
+
+![Sing](https://user-images.githubusercontent.com/99632467/185732842-142bddd9-4cf5-4fe1-b866-8674504941f2.jpeg)
+
+Pantalla de inicio de sesion con nombre y contraseña de la aplicacion.
+
+![App1](https://user-images.githubusercontent.com/99632467/185732890-90ceccca-69b6-4e63-a4ae-3c4f1ba5a966.jpeg)
+![App2](https://user-images.githubusercontent.com/99632467/185732893-d1668f0b-009c-4344-9cf0-8a152ac2baf7.jpeg)
+
+Graficos de niveles de temperatura, humedad del ambiente y humedad del suelo en la apliacion.
+
 ## Conclusiones 
 
 Las investigaciones revisadas a lo largo de este proyecto, evidencian una de las grandes problemáticas que se presenta a nivel Nacional y mundial. Como lo es el mal uso de la funtes hídricas y el desgate de mano de obra en pequeños productores agricultores, que no cuentan con un apoyo tegonologico para mantener la mano de obra y ahorrar agua. Se logró encender/apagar algún dispositivo por medio de teléfonos celulares, que a su vez posibilita la automatización del riego, en tiempo real, a partir de variables de suelo, clima y cultivo, con el fin de de alcanzar una mayor eficiencia en la aplicación del limitado recurso agua.
