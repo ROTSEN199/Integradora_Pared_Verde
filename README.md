@@ -34,7 +34,7 @@ El dispositivo contará con una aplicación, esta contará con:
 |Mini bomba de agua|![Mini bomba de agua sumergible](https://user-images.githubusercontent.com/90642664/171305127-7652ea60-741a-4e3a-87dc-d2b574467ebd.jpg)| <p>***ESPECIFICACIONES TÉCNICAS.<br><ol><li>Voltaje de funcionamiento: 2,5-6v DC.</li><li>Altura bombeo máx.: 40-110cm.</li><li>Caudal bombeo máx.: 80-120 l/h.</li><li>Diámetro salida Exterior: 7,5 mm.</li><li>Diámetro salida Interior: 5 mm.</li><li>Longitud cable: 20cm.</li><li>Tiempo continuo de trabajo de 500 horas.</li></ol></p>| 1 |.
 
 ## Diagrama inicial   
-![Untitled Sketch_bb](https://user-images.githubusercontent.com/95454472/172226808-e73c491d-ef6f-4e07-a26a-0efc44457029.jpg)
+<img width="1343" alt="Digrama de conexion" src="https://user-images.githubusercontent.com/95454472/186731586-ffc60dbb-c620-4ce3-b054-b99303d5eddf.png">
 
 #### Requerimientos.
 | No.|Requerimientos funcionales|
