@@ -27,7 +27,7 @@ El dispositivo contará con una aplicación, esta contará con:
 |---|---|---|---|
 |Raspberry pi| ![raspberry-pi-](https://user-images.githubusercontent.com/90642664/171302620-60e77d6f-04f1-4e92-abd3-60c3bd514649.jpg)| <p>***Especificaciones de la Raspberry Pi 4***<br><ol><li>Sistema en un chip: Broadcom BCM2711</li><li>CPU: Procesador de cuatro núcleos a 1,5 GHz con brazo Cortex-A72</li><li>GPU: VideoCore VI</li><li>Memoria: 1/2/4GB LPDDR4 RAM</li><li>Conectividad: 802.11ac Wi-Fi/Bluetooth 5.0, Gigabit Ethernet</li><li>Vídeo y sonido: 2 x puertos micro-HDMI que admiten pantallas de 4K@60Hz a través de HDMI 2.0, puerto de pantalla MIPI DSI, puerto de cámara MIPI CSI, salida estéreo de 4 polos y puerto de vídeo compuesto.</li><li>Puertos: 2 x USB 3.0, 2 x USB 2.0</li><li>Alimentación: 5V/3A vía USB-C, 5V vía cabezal GPIO</li><li>Expansión: Cabezal GPIO de 40 pines</li></ol></p> | 1 |
 | Relay |![image](https://user-images.githubusercontent.com/90642664/184465280-6b5e043e-bead-453d-be36-2a0012164dbc.png)| <p><br><p><ol><li>El relé (en francés, relais 'relevo') es un dispositivo electromagnético. Funciona como un interruptor controlado por un circuito eléctrico en el que, por medio de una bobina y un electroimán, se acciona un juego de uno o varios contactos que permiten abrir o cerrar otros circuitos eléctricos independientes.</li></ol></p> | 1 |
-|Extencion de luz | ![image](https://user-images.githubusercontent.com/95454472/186215912-7e3602f4-8d5f-4062-b39d-1381afb960e6.png)| <p><ol><li> CARACTERÍSTICAS
+|Extencion de luz | ![image](https://user-images.githubusercontent.com/95454472/186215912-7e3602f4-8d5f-4062-b39d-1381afb960e6.png)| <p><br><ol><li> CARACTERÍSTICAS
 · Cobre con 99.9% de pureza ·3 Conductores ·Contiene doble recubrimiento de PVC. Es necesario solo saber cual es los cables que conducen la coriente para alimentar la bomba por lo que necesitamos es 127v </li></ol></p> | 1 |
 |Sensor de temperatura y humedad | ![sensor de temperatura](https://user-images.githubusercontent.com/90642664/171311674-c51042c7-e5e5-43f9-862f-56726043b1ab.jpg) | <p>***ESPECIFICACIONES TÉCNICAS***<br><ol><li>Voltaje de Operación: 3V - 5V DC</li>Rango de medición de temperatura: 0 a 50 °C</li><li>Precisión de medición de temperatura: ±2.0 °C</li><li>Resolución Temperatura: 0.1°C</li><li>Rango de medición de humedad: 20% a 90% RH.</li>Precisión de medición de humedad: 5% RH.</li><li>Resolución Humedad: 1% RH</li><li>Tiempo de sensado: 1 seg.</li><li>Interface digital: Single-bus (bidireccional)</li>Modelo: DHT11</li>Dimensiones: 16*12*5 mm.</li><li>Peso: 1 gr.</li><li>Carcasa de plástico celeste</li></ol></p>| 3 o 4 |
 |Sensores de humedad de suelo|![sensor-de-humedad](https://user-images.githubusercontent.com/90642664/171305162-4179dc54-f8ce-475d-9491-5815a5954015.jpg)| <p><ol><li>Alta Precisión y Detección de Datos en Tiempo Real El sensor de temperatura funciona con el Hub gateway 2 a través de la aplicación "Mi Home", no puede funcionar por separado. (El control de la aplicación Homekit requiere el uso de Hub) Puede detectar las condiciones de temperatura, humedad y presión atmosférica en tiempo real, también puede ver los datos históricos en la aplicación. Rango de detección de temperatura y precisión - 20 ° C - + 60 ° C, +0.3 ° C</li><li>Alarma Automática Cuando detecta que la temperatura, la humedad y la presión atmosférica son anormales, enviará una notificación a su teléfono y activará la alarma de sirena intermitente local en el Hub</li><li>Tamaño Pequeño y Larga Vida útil Diseño pequeño de 3.6 * 3.6 * 0.9 cm con una cinta adhesiva, puede colocarlo en cualquier lugar que desee. El sensor de termómetro inteligente también viene con una celda de botón CR2032, diseño de ahorro de energía que ofrece 2 años de vida útil</li><li>Vida Inteligente y Cuidado de la Salud】 En combinación con otros dispositivos inteligentes mi, puede conectar el sensor con una salida inteligente. Si la humedad detectada es demasiado baja, puede encender el tomacorriente y encender el humidificador. Con el sensor en la habitación del bebé / niño, puede conocer oportunamente el cambio de temperatura de la humedad, brindarle a su hijo el cuidado y la protección más íntimos</li><li>Instalación y Prueba de Alcance Efectiva Solo presione el botón de reinicio en el dispositivo en la posición deseada. Si el concentrador hace mensajes de voz, indica que el dispositivo puede comunicarse efectivamente con el concentrador</li></ol></p>  | entre 3 y 4 |
@@ -62,7 +62,7 @@ El dispositivo contará con una aplicación, esta contará con:
 
 
 ## Diagrama de Clase de Uso
-<img width="576" alt="diagrama" src="https://user-images.githubusercontent.com/95454472/185724247-b2fedc8a-6ebc-439d-9d18-1a260e0b3421.png">
+![image](https://user-images.githubusercontent.com/90642664/186725387-c4e00b53-75ad-47d3-8937-ff4ccc0bb983.png)
 
 ## Planificación de Proyecto
 
@@ -70,7 +70,7 @@ https://trello.com/b/RLmiaqJo/primer-sprint
 
 ## Entidad_Relación
 
-![image](https://user-images.githubusercontent.com/90642664/185724090-29945a5f-7aa7-44f6-8909-fc284727458d.png)
+![image](https://user-images.githubusercontent.com/90642664/186724976-5b4a6ab9-325d-4e35-9c52-0b5b29bdaec2.png)
 
 
 ## Prototipo de la maquetacion.
